@@ -1,1 +1,2 @@
 /fcdjango_venv/
+*.sqlite3
